@@ -4,4 +4,4 @@
 by [blackCOMICstar](https://github.com/blackcomicstar)
 
 ![tired developers](tired.jpg)
-by ysshin
+by [pherol86](https://github.com/pherol86)
